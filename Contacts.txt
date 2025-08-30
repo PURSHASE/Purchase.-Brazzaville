@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - PURCHASE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>PURCHASE</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="apropos.html">À propos</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>Contactez-nous</h2>
+    <p><b>Téléphone :</b> 065665784</p>
+    <p><b>Email :</b> <a href="mailto:emmamambs@gmail.com">emmamambs@gmail.com</a></p>
+  </div>
+</body>
+</html>

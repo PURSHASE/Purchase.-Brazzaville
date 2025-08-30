@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>À propos - PURCHASE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>PURCHASE</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="apropos.html">À propos</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h2>À propos</h2>
+    <p>
+      Notre mission est de digitaliser et faciliter la gestion d’entreprise en offrant une plateforme 
+      simple, intuitive et moderne, adaptée aux équipes qui veulent collaborer efficacement.
+    </p>
+  </div>
+</body>
+</html>
